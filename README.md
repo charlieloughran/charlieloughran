@@ -31,6 +31,6 @@ Before Makers I worked as a designer, and a few of those projects had a build si
 ## Find me
 
 - Portfolio: [charlieloughran.co.uk](https://charlieloughran.co.uk)
-- LinkedIn: [[linkedin.com/in/charlie-loughran]](https://www.linkedin.com/in/charlie-loughran/)
+- LinkedIn: [linkedin.com/in/charlie-loughran](https://www.linkedin.com/in/charlie-loughran/)
 
 <!-- Tip: pin your best 4 to 6 repos on your profile so they show up under this README. -->
