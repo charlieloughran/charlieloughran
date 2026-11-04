@@ -1,6 +1,6 @@
 # Hi, I'm Charlie 👋
 
-I'm a UI/UX designer turned software engineer, based in London. I spent three years designing in a commercial setting, and I'm now training as a developer at Makers Academy (finishing end of January). I'm looking for junior roles where design and engineering meet.
+I'm a designer turned software engineer, based in London. I spent three years designing in a commercial setting, and I'm now training as a developer at Makers Academy (finishing end of January 2027). I'm looking for junior roles where design and engineering meet.
 
 ## What I'm learning right now
 
@@ -14,7 +14,7 @@ I'm a UI/UX designer turned software engineer, based in London. I spent three ye
 
 ## Where I'm headed
 
-Frontend or UI engineer, product engineer, or design systems engineer. My design background means I care a lot about how things look and feel, and I'm learning to build them properly too.
+Full-stack engineer, product engineer, or design systems engineer. My design background means I care a lot about how things look and feel, and I'm learning to build them properly too.
 
 ## Past work
 
