@@ -1,4 +1,4 @@
-# Hi, I'm Charlie 👋
+# Hi, I'm Charlie 🎾 🎭 🏃 🎤 🎹 🎮 💻
 
 I'm a designer turned software engineer, based in London. I spent three years designing in a commercial setting, and I'm now training as a developer at Makers Academy (finishing end of January 2027). I'm looking for junior roles where design and engineering meet.
 
