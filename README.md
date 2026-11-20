@@ -1,4 +1,20 @@
-# Hi, I'm Charlie 🎾 🎭 🏃 🎤 🎹 🎮 💻
+<p align="center">
+  <pre align="center">
+<span style="color: #22C55E;">   ____ _                 _ _               </span>
+<span style="color: #3B82F6;">  / ___| |__   __ _ _ __ | (_) ___          </span>
+<span style="color: #8B5CF6;"> | |   | '_ \ / _` | '_ \| | |/ _ \         </span>
+<span style="color: #A855F7;"> | |___| | | | (_| | | | | | |  __/         </span>
+<span style="color: #EC4899;">  \____|_| |_|\__,_|_| |_|_|_|\___|         </span>
+  </pre>
+  <br>
+  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🎾_Tennis-22C55E?style=flat-square&logoColor=white" alt="Tennis">
+  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🎭_Theatre-A855F7?style=flat-square&logoColor=white" alt="Theatre">
+  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🏃_Running-3B82F6?style=flat-square&logoColor=white" alt="Running">
+  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🎤_Singing-EC4899?style=flat-square&logoColor=white" alt="Singing">
+  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🎹_Piano-374151?style=flat-square&logoColor=white" alt="Piano">
+  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🎮_Gaming-8B5CF6?style=flat-square&logoColor=white" alt="Gaming">
+  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)💻_Coding-2563EB?style=flat-square&logoColor=white" alt="Coding">
+</p>
 
 I'm a designer turned software engineer, based in London. I spent three years designing in a commercial setting, and I'm now training as a developer at Makers Academy (finishing end of January 2027). I'm looking for junior roles where design and engineering meet.
 
