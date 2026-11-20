@@ -82,15 +82,13 @@ Full-stack engineer, product engineer, or design systems engineer. My design bac
 </div>
 
 
-### The small print
+### The Three Elven Rings
 
 | Project | Type | What it is | Stack |
 | --- | --- | --- | --- |
 | [SupernovaBnb](https://github.com/charlieloughran/supernova-bnb) | Group  | A web application inspired by Airbnb that allows users to list spaces for rent and make bookings. Built collaboratively in a team of four using agile principles and test-driven development. | ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2563EB?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=flat-square&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=flat-square&logo=github&logoColor=white) |
 | [Rehearsal Schedule](https://github.com/charlieloughran/rehearsal_scheduler) | Passion | IN PROGRESS | ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2563EB?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=flat-square&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=flat-square&logo=github&logoColor=white) |
 | [Harvest Communications](https://harvestcommunications.co.uk) | Real-World | Led the interface design and migrated the site from React to Astro for better SEO and Core Web Vitals. Scores 98 on mobile and 100 on desktop in PageSpeed. | ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-7C3AED?style=flat-square&logo=astro&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-EA580C?style=flat-square&logo=netlify&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=flat-square&logo=figma&logoColor=white) |
-
-## The Fellowship
 
 ## The Fellowship
 
@@ -113,13 +111,13 @@ Full-stack engineer, product engineer, or design systems engineer. My design bac
 ![Git](https://img.shields.io/badge/Git-EA580C?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=for-the-badge&logo=github&logoColor=white)
 
-### ~~Boromir *(Security & Auth)*~~
-*(Fell at Amon Hen—One does not simply implement 0Auth)*
-
 ### Merry & Pippin *(Always causing trouble in the UI)*
 ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white)
+
+### ~~Boromir *(Security & Auth)*~~
+*(Fell at Amon Hen—One does not simply implement 0Auth)* 
 
 ## Speak, friend, and enter
 
