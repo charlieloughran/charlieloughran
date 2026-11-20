@@ -1,48 +1,42 @@
-<p align="center">
-  <pre align="center">
-<span style="color: #22C55E;">   ____ _                 _ _               </span>
+<pre align="center">
+<span style="color: #2563EB;">   ____ _                 _ _               </span>
 <span style="color: #3B82F6;">  / ___| |__   __ _ _ __ | (_) ___          </span>
 <span style="color: #8B5CF6;"> | |   | '_ \ / _` | '_ \| | |/ _ \         </span>
 <span style="color: #A855F7;"> | |___| | | | (_| | | | | | |  __/         </span>
 <span style="color: #EC4899;">  \____|_| |_|\__,_|_| |_|_|_|\___|         </span>
-  </pre>
-  <br>
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🎾_Tennis-22C55E?style=flat-square&logoColor=white" alt="Tennis">
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🎭_Theatre-A855F7?style=flat-square&logoColor=white" alt="Theatre">
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🏃_Running-3B82F6?style=flat-square&logoColor=white" alt="Running">
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🎤_Singing-EC4899?style=flat-square&logoColor=white" alt="Singing">
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🎹_Piano-374151?style=flat-square&logoColor=white" alt="Piano">
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🎮_Gaming-8B5CF6?style=flat-square&logoColor=white" alt="Gaming">
-  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)💻_Coding-2563EB?style=flat-square&logoColor=white" alt="Coding">
+</pre>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎾_Tennis-22C55E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎭_Theatre-A855F7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🏃_Running-3B82F6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎤_Singing-EC4899?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎹_Piano-374151?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎮_Gaming-8B5CF6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💻_Coding-2563EB?style=for-the-badge&logoColor=white"/>
 </p>
 
 I'm a designer turned software engineer, based in London. I spent three years designing in a commercial setting, and I'm now training as a developer at Makers Academy (finishing end of January 2027). I'm looking for junior roles where design and engineering meet.
 
-## Currently levelling up
-
-- **Python and Flask**: building and testing web apps
-- **PostgreSQL**: designing databases and wiring them into apps
-- **Docker**: containerising apps so they run the same everywhere
-- **CI/CD with GitHub Actions**: automated tests and deploys
-- **AWS (EC2)**: getting a site live over SSH
-- **Test-driven development and OOP**: writing the test first, keeping code small and readable
-- **Next up**: Java, then Kotlin
-
-## The road goes ever on
+## The road goes ever on - what's next for me...
 
 Full-stack engineer, product engineer, or design systems engineer. My design background means I care a lot about how things look and feel, and I'm learning to build them properly too.
 
-## One top trump to rule them all
+<div align="center">
 
-```
+```ini
 +--------------------------------------------+
-| SUPERNOVABNB                 GROUP PROJECT |
+[ SUPERNOVABNB                 GROUP PROJECT ]
 +--------------------------------------------+
-| Group build from Makers Academy.           |
-| [What it does + your role here]            |
+| A web application inspired by Airbnb       |
+| that allows users to list spaces for rent  |
+| and make bookings. Built collaboratively   |
+| in a team of four using agile principles   |
+| and test-driven development                |
 +--------------------------------------------+
-| Teamwork ............................... 9 |
-| Stack depth ............................ 7 |
+| Teamwork       █████████░  9/10            |
+| Stack depth    ███████░░░  7/10            |
 +--------------------------------------------+
 | Python . Flask . PostgreSQL . GitHub       |
 +--------------------------------------------+
@@ -51,34 +45,15 @@ Full-stack engineer, product engineer, or design systems engineer. My design bac
 +--------------------------------------------+
 ```
 
-```
+```ini
 +--------------------------------------------+
-| COMPANY WEBSITE                 REAL WORLD |
-+--------------------------------------------+
-| Led the design, then moved the site from   |
-| React to Astro for better SEO and Core     |
-| Web Vitals.                                |
-+--------------------------------------------+
-| PageSpeed, mobile ..................... 98 |
-| PageSpeed, desktop ................... 100 |
-| Design input ........................... 9 |
-+--------------------------------------------+
-| React . Astro . Netlify . Figma            |
-+--------------------------------------------+
-| "One does not simply ignore Core           |
-|  Web Vitals."                              |
-+--------------------------------------------+
-```
-
-```
-+--------------------------------------------+
-| REHEARSAL PLANNER              IN PROGRESS |
+[ REHEARSAL PLANNER              IN PROGRESS ]
 +--------------------------------------------+
 | Plans rehearsals for amateur theatre       |
 | companies so nobody checks every block.    |
 +--------------------------------------------+
-| Conflict checking ...................... 8 |
-| Stack depth ............................ 5 |
+| Conflict check ████████░░  8/10            |
+| Stack depth    █████░░░░░  5/10            |
 +--------------------------------------------+
 | Python . Flask . PostgreSQL . pytest       |
 +--------------------------------------------+
@@ -86,12 +61,34 @@ Full-stack engineer, product engineer, or design systems engineer. My design bac
 +--------------------------------------------+
 ```
 
+```ini
++--------------------------------------------+
+[ HARVEST COMMUNICATIONS          REAL WORLD ]
++--------------------------------------------+
+| Led the design, then moved the site from   |
+| React to Astro for better SEO and Core     |
+| Web Vitals.                                |
++--------------------------------------------+
+| Speed (Mobile)  █████████▒  98             |
+| Speed (Desktop) ██████████ 100             |
+| Design input    █████████░ 9/10            |
++--------------------------------------------+
+| React . Astro . Netlify . Figma            |
++--------------------------------------------+
+| "One does not simply ignore Core           |
+|  Web Vitals."                              |
++--------------------------------------------+
+```
+</div>
+
+
 ### The small print
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [SupernovaBnb](https://github.com/charlieloughran/supernova-bnb) | Group project built at Makers Academy. [One line on what it does and your part in it] | ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2563EB?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=flat-square&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=flat-square&logo=github&logoColor=white) |
-| [Company Website](https://harvestcommunications.co.uk)| Led the interface design and migrated the site from React to Astro for better SEO and Core Web Vitals. Scores 98 on mobile and 100 on desktop in PageSpeed. | ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-7C3AED?style=flat-square&logo=astro&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-EA580C?style=flat-square&logo=netlify&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=flat-square&logo=figma&logoColor=white) |
+| Project | Type | What it is | Stack |
+| --- | --- | --- | --- |
+| [SupernovaBnb](https://github.com/charlieloughran/supernova-bnb) | Group  | A web application inspired by Airbnb that allows users to list spaces for rent and make bookings. Built collaboratively in a team of four using agile principles and test-driven development. | ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2563EB?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=flat-square&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=flat-square&logo=github&logoColor=white) |
+| [Rehearsal Schedule](https://github.com/charlieloughran/rehearsal_scheduler) | Passion | IN PROGRESS | ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2563EB?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=flat-square&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=flat-square&logo=github&logoColor=white) |
+| [Harvest Communications](https://harvestcommunications.co.uk) | Real-World | Led the interface design and migrated the site from React to Astro for better SEO and Core Web Vitals. Scores 98 on mobile and 100 on desktop in PageSpeed. | ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-7C3AED?style=flat-square&logo=astro&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-EA580C?style=flat-square&logo=netlify&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=flat-square&logo=figma&logoColor=white) |
 
 ## Big Stack and Fries
 
