@@ -1,8 +1,8 @@
-# Hi, I'm Charlie  🎾 🎭 🏃 🎤 🎹 🎮 💻
+# Hi, I'm Charlie 🎾 🎭 🏃 🎤 🎹 🎮 💻
 
 I'm a designer turned software engineer, based in London. I spent three years designing in a commercial setting, and I'm now training as a developer at Makers Academy (finishing end of January 2027). I'm looking for junior roles where design and engineering meet.
 
-## What I'm learning right now
+## Currently levelling up
 
 - **Python and Flask**: building and testing web apps
 - **PostgreSQL**: designing databases and wiring them into apps
@@ -12,25 +12,100 @@ I'm a designer turned software engineer, based in London. I spent three years de
 - **Test-driven development and OOP**: writing the test first, keeping code small and readable
 - **Next up**: Java, then Kotlin
 
-## Where I'm headed
+## The road goes ever on
 
 Full-stack engineer, product engineer, or design systems engineer. My design background means I care a lot about how things look and feel, and I'm learning to build them properly too.
 
-## Past work
+## One top trump to rule them all
 
-Before Makers I worked as a designer, and a few of those projects had a build side:
+```
++--------------------------------------------+
+| SUPERNOVABNB                 GROUP PROJECT |
++--------------------------------------------+
+| Group build from Makers Academy.           |
+| [What it does + your role here]            |
++--------------------------------------------+
+| Teamwork ............................... 9 |
+| Stack depth ............................ 7 |
++--------------------------------------------+
+| Python . Flask . PostgreSQL . GitHub       |
++--------------------------------------------+
+| "Even the smallest commit can change       |
+|  the course of the future."                |
++--------------------------------------------+
+```
 
-- **Company website (React to Astro):** led the interface design and migrated the site for better SEO and Core Web Vitals. It scores 98 on mobile and 100 on desktop in PageSpeed. Deployed on Netlify.
-- **Design systems:** set up InDesign styles and templates that cut a repetitive editing task from around 20 minutes to 4.
-- **UI design:** dashboards and product screens in Figma, plus freelance work through my own company, LOCRN Ltd.
+```
++--------------------------------------------+
+| COMPANY WEBSITE                 REAL WORLD |
++--------------------------------------------+
+| Led the design, then moved the site from   |
+| React to Astro for better SEO and Core     |
+| Web Vitals.                                |
++--------------------------------------------+
+| PageSpeed, mobile ..................... 98 |
+| PageSpeed, desktop ................... 100 |
+| Design input ........................... 9 |
++--------------------------------------------+
+| React . Astro . Netlify . Figma            |
++--------------------------------------------+
+| "One does not simply ignore Core           |
+|  Web Vitals."                              |
++--------------------------------------------+
+```
 
-## Tools
+```
++--------------------------------------------+
+| REHEARSAL PLANNER              IN PROGRESS |
++--------------------------------------------+
+| Plans rehearsals for amateur theatre       |
+| companies so nobody checks every block.    |
++--------------------------------------------+
+| Conflict checking ...................... 8 |
+| Stack depth ............................ 5 |
++--------------------------------------------+
+| Python . Flask . PostgreSQL . pytest       |
++--------------------------------------------+
+| "You shall not pass! (a double booking)"   |
++--------------------------------------------+
+```
 
-`Python` `Flask` `PostgreSQL` `Git` `Docker` `GitHub Actions` `AWS` `React` `Astro` `Figma`
+### The small print
 
-## Find me
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [SupernovaBnb](https://github.com/charlieloughran/supernovabnb) | Group project built at Makers Academy. [One line on what it does and your part in it] | ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2563EB?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=flat-square&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=flat-square&logo=github&logoColor=white) |
+| [Company Website](https://harvestcommunications.co.uk)| Led the interface design and migrated the site from React to Astro for better SEO and Core Web Vitals. Scores 98 on mobile and 100 on desktop in PageSpeed. | ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-7C3AED?style=flat-square&logo=astro&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-EA580C?style=flat-square&logo=netlify&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=flat-square&logo=figma&logoColor=white) |
+
+## Big Stack and Fries
+
+### The engine room
+
+![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2563EB?style=for-the-badge&logo=flask&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=for-the-badge&logo=springboot&logoColor=white)
+
+### The shop window
+
+![React](https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-7C3AED?style=for-the-badge&logo=astro&logoColor=white)
+
+### Nifty little gadgets
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-EA580C?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-EA580C?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=for-the-badge&logo=github&logoColor=white)
+
+### Pixel pushing
+
+![Figma](https://img.shields.io/badge/Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white)
+
+## Speak, friend, and enter
 
 - Portfolio: [charlieloughran.co.uk](https://charlieloughran.co.uk)
 - LinkedIn: [linkedin.com/in/charlie-loughran](https://www.linkedin.com/in/charlie-loughran/)
-
-<!-- Tip: pin your best 4 to 6 repos on your profile so they show up under this README. -->
