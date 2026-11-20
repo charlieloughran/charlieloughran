@@ -19,7 +19,7 @@
 
 I'm a designer turned software engineer, based in London. I spent three years designing in a commercial setting, and I'm now training as a developer at Makers Academy (finishing end of January 2027). I'm looking for junior roles where design and engineering meet.
 
-## The road goes ever on - what's next for me...
+## The road goes ever on - What's next for me...
 
 Full-stack engineer, product engineer, or design systems engineer. My design background means I care a lot about how things look and feel, and I'm learning to build them properly too.
 
@@ -90,7 +90,7 @@ Full-stack engineer, product engineer, or design systems engineer. My design bac
 | [Rehearsal Schedule](https://github.com/charlieloughran/rehearsal_scheduler) | Passion | IN PROGRESS | ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2563EB?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=flat-square&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=flat-square&logo=github&logoColor=white) |
 | [Harvest Communications](https://harvestcommunications.co.uk) | Real-World | Led the interface design and migrated the site from React to Astro for better SEO and Core Web Vitals. Scores 98 on mobile and 100 on desktop in PageSpeed. | ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-7C3AED?style=flat-square&logo=astro&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-EA580C?style=flat-square&logo=netlify&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=flat-square&logo=figma&logoColor=white) |
 
-## The Fellowship
+## The Fellowship - The Stack
 
 ### Gandalf *(The mastermind behind it all)*
 ![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
