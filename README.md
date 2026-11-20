@@ -90,30 +90,33 @@ Full-stack engineer, product engineer, or design systems engineer. My design bac
 | [Rehearsal Schedule](https://github.com/charlieloughran/rehearsal_scheduler) | Passion | IN PROGRESS | ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2563EB?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=flat-square&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=flat-square&logo=github&logoColor=white) |
 | [Harvest Communications](https://harvestcommunications.co.uk) | Real-World | Led the interface design and migrated the site from React to Astro for better SEO and Core Web Vitals. Scores 98 on mobile and 100 on desktop in PageSpeed. | ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-7C3AED?style=flat-square&logo=astro&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-EA580C?style=flat-square&logo=netlify&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=flat-square&logo=figma&logoColor=white) |
 
-## Big Stack and Fries
+## The Fellowship
 
-### The engine room
+## The Fellowship
 
+### Gandalf *(The mastermind behind it all)*
 ![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2563EB?style=for-the-badge&logo=flask&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=for-the-badge&logo=springboot&logoColor=white)
 
-### The shop window
-
+### Frodo *(The frontend journey)*
 ![React](https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-7C3AED?style=for-the-badge&logo=astro&logoColor=white)
 
-### Nifty little gadgets
-
+### Samwise Gamgee *(Carrying the weight when things get heavy)*
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-EA580C?style=for-the-badge&logo=pytest&logoColor=white)
+
+### Aragorn, Legolas & Gimli *(The heavy infrastructure lifters)*
 ![Docker](https://img.shields.io/badge/Docker-EA580C?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-EA580C?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=for-the-badge&logo=github&logoColor=white)
 
-### Pixel pushing
+### ~~Boromir *(Security & Auth)*~~
+*(Fell at Amon Hen—One does not simply implement 0Auth)*
 
+### Merry & Pippin *(Always causing trouble in the UI)*
 ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white)
