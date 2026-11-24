@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/🎾_Tennis-22C55E?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎭_Theatre-A855F7?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🏃_Running-3B82F6?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎤_Singing-EC4899?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎹_Piano-374151?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎮_Gaming-8B5CF6?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/💻_Coding-2563EB?style=for-the-badge&logoColor=white"/>
-</p>
-
 
 <p align="center">
   <img width="65%" alt="gollum-hobbit" src="https://github.com/user-attachments/assets/4fa5b490-4be1-41e2-afda-30c201b2e478" />
@@ -18,16 +8,26 @@
 <br/>
 
 <pre align="center">
-<span style="color: #2563EB;">   ____ _                 _ _          _       </span>
-<span style="color: #3B82F6;">  / ___| |__   __ _ _ __ | (_) ___    | |      </span>
-<span style="color: #8B5CF6;"> | |   | '_ \ / _` | '_ \| | |/ _ \   | |      </span>
-<span style="color: #A855F7;"> | |___| | | | (_| | | | | | |  __/   | |___   </span>
-<span style="color: #EC4899;">  \____|_| |_|\__,_|_| |_|_|_|\___|   |_____|  </span>
+<span>   ____ _                 _ _          _       </span>
+<span>  / ___| |__   __ _ _ __ | (_) ___    | |      </span>
+<span> | |   | '_ \ / _` | '_ \| | |/ _ \   | |      </span>
+<span> | |___| | | | (_| | | | | | |  __/   | |___   </span>
+<span>  \____|_| |_|\__,_|_| |_|_|_|\___|   |_____|  </span>
 </pre>
 
 <br/>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🎾_Tennis-22C55E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎭_Theatre-A855F7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🏃_Running-3B82F6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎤_Singing-EC4899?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎹_Piano-374151?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎮_Gaming-8B5CF6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💻_Coding-2563EB?style=for-the-badge&logoColor=white"/>
+</p>
 
+<br/>
 
 I'm a graphic designer turned software engineer, based in London. I spent three years designing in a commercial setting, and I'm now training as a developer at Makers Academy (finishing end of January 2027). I'm looking for junior roles where design and engineering meet.
 
@@ -97,6 +97,7 @@ Full-stack engineer, product engineer, or design systems engineer. My design bac
 </div>
 
 <br/>
+
 ### The Three Elven Rings
 
 | Project | Type | What it is | Stack |
@@ -106,33 +107,34 @@ Full-stack engineer, product engineer, or design systems engineer. My design bac
 | [Harvest Communications](https://harvestcommunications.co.uk) | Real-World | Led the interface design and migrated the site from React to Astro for better SEO and Core Web Vitals. Scores 98 on mobile and 100 on desktop in PageSpeed. | ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-7C3AED?style=flat-square&logo=astro&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-EA580C?style=flat-square&logo=netlify&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=flat-square&logo=figma&logoColor=white) |
 
 <br/>
-## The Fellowship aka The Stack
 
-### Gandalf *(The mastermind behind it all)*
+### The Fellowship aka The Stack
+
+##### Gandalf *(The mastermind behind it all)*
 ![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2563EB?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Frodo *(The frontend journey)*
+##### Frodo *(The frontend journey)*
 ![React](https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-7C3AED?style=for-the-badge&logo=astro&logoColor=white)
 
-### Samwise Gamgee *(Carrying the weight when things get heavy)*
+##### Samwise Gamgee *(Carrying the weight when things get heavy)*
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-EA580C?style=for-the-badge&logo=pytest&logoColor=white)
 
-### Aragorn, Legolas & Gimli *(The heavy infrastructure lifters)*
+##### Aragorn, Legolas & Gimli *(The heavy infrastructure lifters)*
 ![Docker](https://img.shields.io/badge/Docker-EA580C?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-EA580C?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=for-the-badge&logo=github&logoColor=white)
 
-### Merry & Pippin *(Always causing trouble in the UI)*
+##### Merry & Pippin *(Always causing trouble in the UI)*
 ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white)
 
-### ~~Boromir *(Security & Auth)*~~
+##### ~~Boromir *(Security & Auth)*~~
 *(Fell at Amon Hen—One does not simply implement 0Auth)* 
 
 ## Speak, friend, and enter
