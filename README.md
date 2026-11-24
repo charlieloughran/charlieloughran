@@ -1,12 +1,3 @@
-<pre align="center">
-<span style="color: #2563EB;">   ____ _                 _ _               </span>
-<span style="color: #3B82F6;">  / ___| |__   __ _ _ __ | (_) ___          </span>
-<span style="color: #8B5CF6;"> | |   | '_ \ / _` | '_ \| | |/ _ \         </span>
-<span style="color: #A855F7;"> | |___| | | | (_| | | | | | |  __/         </span>
-<span style="color: #EC4899;">  \____|_| |_|\__,_|_| |_|_|_|\___|         </span>
-</pre>
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/🎾_Tennis-22C55E?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/🎭_Theatre-A855F7?style=for-the-badge&logoColor=white"/>
@@ -17,7 +8,31 @@
   <img src="https://img.shields.io/badge/💻_Coding-2563EB?style=for-the-badge&logoColor=white"/>
 </p>
 
-I'm a designer turned software engineer, based in London. I spent three years designing in a commercial setting, and I'm now training as a developer at Makers Academy (finishing end of January 2027). I'm looking for junior roles where design and engineering meet.
+
+<p align="center">
+  <img width="65%" alt="gollum-hobbit" src="https://github.com/user-attachments/assets/4fa5b490-4be1-41e2-afda-30c201b2e478" />
+</p>
+
+<h4 align="center"><em>"Me watching one test turn green while another turns red."</em></h4>
+
+<br/>
+
+<pre align="center">
+<span style="color: #2563EB;">   ____ _                 _ _          _       </span>
+<span style="color: #3B82F6;">  / ___| |__   __ _ _ __ | (_) ___    | |      </span>
+<span style="color: #8B5CF6;"> | |   | '_ \ / _` | '_ \| | |/ _ \   | |      </span>
+<span style="color: #A855F7;"> | |___| | | | (_| | | | | | |  __/   | |___   </span>
+<span style="color: #EC4899;">  \____|_| |_|\__,_|_| |_|_|_|\___|   |_____|  </span>
+</pre>
+
+<br/>
+
+
+
+I'm a graphic designer turned software engineer, based in London. I spent three years designing in a commercial setting, and I'm now training as a developer at Makers Academy (finishing end of January 2027). I'm looking for junior roles where design and engineering meet.
+
+
+<br/>
 
 ## The road goes ever on - What's next for me...
 
@@ -81,7 +96,7 @@ Full-stack engineer, product engineer, or design systems engineer. My design bac
 ```
 </div>
 
-
+<br/>
 ### The Three Elven Rings
 
 | Project | Type | What it is | Stack |
@@ -90,7 +105,8 @@ Full-stack engineer, product engineer, or design systems engineer. My design bac
 | [Rehearsal Schedule](https://github.com/charlieloughran/rehearsal_scheduler) | Passion | IN PROGRESS | ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2563EB?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA580C?style=flat-square&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-EA580C?style=flat-square&logo=github&logoColor=white) |
 | [Harvest Communications](https://harvestcommunications.co.uk) | Real-World | Led the interface design and migrated the site from React to Astro for better SEO and Core Web Vitals. Scores 98 on mobile and 100 on desktop in PageSpeed. | ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-7C3AED?style=flat-square&logo=astro&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-EA580C?style=flat-square&logo=netlify&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=flat-square&logo=figma&logoColor=white) |
 
-## The Fellowship - The Stack
+<br/>
+## The Fellowship aka The Stack
 
 ### Gandalf *(The mastermind behind it all)*
 ![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
